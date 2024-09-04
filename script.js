@@ -50,3 +50,15 @@
     contactLink.addEventListener('click', function() {
     smoothScroll('#contact', 1000);
 });*/
+    document.addEventListener('DOMContentLoaded', function() {
+        // Create and add the cursor aura element
+        const cursorAura = document.createElement('div');
+        cursorAura.classList.add('cursor-aura');
+        document.body.appendChild(cursorAura);
+
+        // Update the position of the cursor aura based on mouse movement
+        document.addEventListener('mousemove', function (e) {
+            cursorAura.style.left = e.pageX + 'px';
+            cursorAura.style.top = e.pageY + 'px';
+        });
+    });

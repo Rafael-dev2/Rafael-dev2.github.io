@@ -112,3 +112,15 @@ a{
     margin-top: 0;
     padding-top: 0;
 }
+
+.cursor-aura {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.6); /* Light color for the aura */
+    pointer-events: none; /* Ensures the aura doesn't interfere with elements */
+    box-shadow: 0 0 20vw 20vw rgba(59,130,246, 0.1); /* Aura effect */
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+}
