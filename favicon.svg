@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview36"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="9.7916667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1280"
+     inkscape:window-height="652"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="_9-Computer_Game" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fff;}.cls-2{fill:#65b1fc;}.cls-3{fill:#256494;}</style>
+  </defs>
+  <title
+     id="title6">9-Computer Game</title>
+  <g
+     id="_9-Computer_Game"
+     data-name="9-Computer Game">
+    <g
+       id="_Group_"
+       data-name="&lt;Group&gt;">
+      <path
+         class="cls-1"
+         d="M34,43v3a1,1,0,0,1-1,1H15a1,1,0,0,1-1-1V43H34Z"
+         id="path8" />
+      <rect
+         class="cls-2"
+         x="17"
+         y="35"
+         width="14"
+         height="8"
+         id="rect10"
+         style="fill:#0f172a;fill-opacity:1" />
+      <path
+         class="cls-1"
+         d="M47,3V33a2.006,2.006,0,0,1-2,2H3a2.006,2.006,0,0,1-2-2V3A2.006,2.006,0,0,1,3,1H45A2.006,2.006,0,0,1,47,3ZM42,30V6H6V30Z"
+         id="path12" />
+      <path
+         class="cls-1"
+         d="M26.66,12.34,21,18l5.66,5.66a8,8,0,1,1,0-11.32Z"
+         id="path14" />
+      <path
+         class="cls-2"
+         d="M42,6V30H6V6ZM21,18l5.66-5.66a8,8,0,1,0,0,11.32Z"
+         id="path16"
+         style="fill:#0f172a;fill-opacity:1" />
+      <path
+         class="cls-3"
+         d="M45,0H3A3,3,0,0,0,0,3V33a3,3,0,0,0,3,3H16v6H14a1,1,0,0,0-1,1v3H11v2H37V46H35V43a1,1,0,0,0-1-1H32V36H45a3,3,0,0,0,3-3V3A3,3,0,0,0,45,0ZM33,46H15V44H33Zm-3-4H18V36H30Zm16-9a1,1,0,0,1-1,1H3a1,1,0,0,1-1-1V3A1,1,0,0,1,3,2H45a1,1,0,0,1,1,1Z"
+         id="path18"
+         style="fill:#94a3b8;fill-opacity:1" />
+      <path
+         class="cls-3"
+         d="M42,5H6A1,1,0,0,0,5,6V30a1,1,0,0,0,1,1H42a1,1,0,0,0,1-1V6A1,1,0,0,0,42,5ZM41,29H7V7H41Z"
+         id="path20"
+         style="fill:#94a3b8;fill-opacity:1" />
+      <path
+         class="cls-3"
+         d="M21,27a8.983,8.983,0,0,0,6.365-2.63,1,1,0,0,0,0-1.417L22.414,18l4.953-4.953a1,1,0,0,0,0-1.417A9,9,0,1,0,21,27Zm0-16a6.98,6.98,0,0,1,4.194,1.392l-4.9,4.9a1,1,0,0,0,0,1.414l4.9,4.9A7,7,0,1,1,21,11Z"
+         id="path22"
+         style="fill:#94a3b8;fill-opacity:1" />
+      <rect
+         class="cls-3"
+         x="30"
+         y="17"
+         width="2"
+         height="2"
+         id="rect24" />
+      <rect
+         class="cls-3"
+         x="26"
+         y="17"
+         width="2"
+         height="2"
+         id="rect26" />
+      <rect
+         class="cls-3"
+         x="34"
+         y="17"
+         width="2"
+         height="2"
+         id="rect28" />
+      <path
+         class="cls-3"
+         d="M37,14h2V10a1,1,0,0,0-1-1H34v2h3Z"
+         id="path30" />
+    </g>
+  </g>
+</svg>
