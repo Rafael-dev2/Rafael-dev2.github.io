@@ -1,0 +1,114 @@
+.body{
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    background-color: #0f172a;
+    color: rgb(148,163,184);
+    font-family: Consolas, Helvetica, sans-serif;
+}
+header{
+    position: sticky;
+    top: 0;
+    height: 15em;
+    margin-left: 1em;
+    margin-right: 2em;
+    margin-top: 0;
+
+    padding-top: 1em;
+    width: 40%;
+
+}
+#right-side{
+    margin-left: 2em;
+    margin-right: 1em;
+    margin-top: 0em;
+    padding-top: 1em;
+    width: 40%;
+}
+h1{
+    font-size: 2.5em;
+}
+h1,h2{
+    color: rgb(226, 232, 240);
+}
+h2{
+    margin-top: 0.50em;
+    margin-bottom: 0.66em;
+}
+h3{
+    color:#e2e8f0;
+    transition: color 1s;
+}
+.icone{
+    filter: invert(.5);
+    transition: filter 0.5s;
+    width: 2em;
+    height: 2em;
+}
+.icone:hover{
+    filter: invert(.9);
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+.indice{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1em;
+    font-size: 1em;
+}
+.linha{
+    background-color: rgb(148,163,184);
+    height: 0.25em;
+    width: 2em;
+    transition: background-color 1s, width 1s;
+}
+.indice:hover .linha{
+    width: 4em;
+    background-color: #e2e8f0;
+}
+.indice:hover h3{
+    color:#e2e8f0;
+}
+#list-sites{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1em;
+}
+a{
+    text-decoration: none;
+    color:inherit;
+}
+#link {
+    color: #e2e8f0;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+#link:hover{
+    color: #4366bb;
+}
+#sobre {
+    box-sizing: border-box;
+
+}
+.projeto{
+    box-sizing: content-box;
+    transition: opacity 1s, background-color 1s;
+    border-radius: 1em;
+}
+.projeto:hover{
+    opacity: 0.7;
+    background-color: #141f38;
+}
+.anchor{
+    transition: all 1s ease;
+}
+.experiencia{
+    display: flex;
+    flex-direction: row;
+    margin-top: 0;
+    padding-top: 0;
+}
