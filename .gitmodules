@@ -1,0 +1,3 @@
+[submodule "CampoMinado"]
+	path = CampoMinado
+	url = git@github.com:Rafael-dev2/CampoMinado.git
